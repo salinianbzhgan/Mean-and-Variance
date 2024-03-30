@@ -1,6 +1,6 @@
 #  Mean and variance of a discrete  distribution
-**NAME:SALINI A
-**REG:212223220091
+# NAME:SALINI A
+# REG:212223220091
 
 # Aim : 
 
